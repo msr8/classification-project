@@ -1,6 +1,6 @@
 xtick.minor.visible: True 
 ytick.minor.visible: True 
-savefig.dpi: 500
+savefig.dpi: 700
 
 
 # Inherited from dark_background (https://raw.githubusercontent.com/matplotlib/matplotlib/v3.7.2/lib/matplotlib/mpl-data/stylelib/dark_background.mplstyle)
