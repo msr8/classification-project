@@ -1,9 +1,12 @@
 # Custom Cyberpunk Style
 savefig.dpi: 500
+# axes.grid: True
+# axes.grid.which: both
 axes.prop_cycle: cycler('color', ["#FF00FF", "#00FFFF", "#FFC800", "#00FF00"])
 axes.linewidth: 2.0
 axes.edgecolor: "#FFFFFF"
 axes.facecolor: "#000000"
+axes.labelcolor: "#FFFFFF"
 figure.facecolor: "#000000"
 figure.edgecolor: "#000000"
 xtick.color: "#FFFFFF"
@@ -12,12 +15,10 @@ grid.color: "#808080"
 grid.linestyle: "-"
 grid.alpha: 0.4
 text.color: "#FFFFFF"
-font.size: 12.0
 lines.linewidth: 1.0
 # scatter.marker: x
 lines.markersize: 8.0
 legend.facecolor: "#000000"
 legend.edgecolor: "#FFFFFF"
 legend.framealpha: 0.8
-legend.fontsize: 10.0
 legend.loc: upper right
