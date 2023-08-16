@@ -26,7 +26,7 @@ savefig.dpi: 700
 # boxplot.flierprops.markeredgecolor: white
 # boxplot.whiskerprops.color: white
 
-# Inherited from seaborn (default) (https://github.com/matplotlib/matplotlib/blob/v3.7.2/lib/matplotlib/mpl-data/stylelib/seaborn-v0_8.mplstyle)
+# Inherited from seaborn (pastel) (https://github.com/matplotlib/matplotlib/blob/v3.7.2/lib/matplotlib/mpl-data/stylelib/seaborn-v0_8.mplstyle)
 axes.axisbelow: True
 axes.edgecolor: white
 axes.facecolor: EAEAF2
@@ -71,8 +71,6 @@ ytick.major.size: 0
 ytick.major.width: 1
 ytick.minor.size: 0
 ytick.minor.width: .5
-
-# Inherited from seaborn pastel (https://github.com/matplotlib/matplotlib/blob/v3.7.2/lib/matplotlib/mpl-data/stylelib/seaborn-v0_8-pastel.mplstyle)
+# Pastel variant (https://github.com/matplotlib/matplotlib/blob/v3.7.2/lib/matplotlib/mpl-data/stylelib/seaborn-v0_8-pastel.mplstyle)
 axes.prop_cycle: cycler('color', ['92C6FF', '97F0AA', 'FF9F9A', 'D0BBFF', 'FFFEA3', 'B0E0E6'])
 patch.facecolor: 92C6FF
-
