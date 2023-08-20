@@ -1,5 +1,5 @@
-xtick.minor.visible: True 
-ytick.minor.visible: True 
+# xtick.minor.visible: True 
+# ytick.minor.visible: True 
 figure.titleweight: bold
 axes.titleweight: bold
 savefig.dpi: 700
